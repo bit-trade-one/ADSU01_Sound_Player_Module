@@ -14,6 +14,14 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01/)!
 
+## [マニュアル](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/blob/master/Manual/ADSU01_MANUAL_WEB.pdf)
+
+## [PCアプリ](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/tree/master/App)
+
+### [基板図](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/tree/master/Dimensions)
+
+### [回路図](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/tree/master/Schematics)
+
 ## 製品仕様
 
 ### ピン配置
