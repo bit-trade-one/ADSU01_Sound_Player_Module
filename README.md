@@ -14,7 +14,7 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01/)!
 
-### 評価ボードの詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01tb/)!
+### 評価ボードセットのサポートサイトは[こちら](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board)!
 
 ## [マニュアル](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/blob/master/Manual/ADSU01_MANUAL_WEB.pdf)
 
