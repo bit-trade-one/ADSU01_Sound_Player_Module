@@ -12,6 +12,8 @@
 またマイコンやArduino／RaspberryPi等の出力ピンからも制御可能でスイッチ入力による  
 再生停止により制御可能で組み込み初心者にも安心の音源再生モジュールです。  
 
+## [設定ツールダウンロードリンク(クリックでダウンロード)](https://github.com/bit-trade-one/ADSU01_Sound_Player_Module/releases/download/V2.1.0/soundmodule-win-2.1.0.zip)
+
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adsu01/)!
 
 ### 評価ボードセットのサポートサイトは[こちら](https://github.com/bit-trade-one/ADSU01TB_Sound_Player_Module_reference_board)!
